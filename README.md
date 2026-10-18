@@ -1,7 +1,7 @@
 # Poker HUD pessoal (PokerStars)
 
 Notebook Jupyter que lê os *hand histories* do PokerStars (`.txt`) e calcula estatísticas
-por jogador, sem precisar de software pago.
+por jogador, sem precisar de software pago. Gerado por Claude.AI
 
 ## Estatísticas
 
